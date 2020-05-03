@@ -1,8 +1,4 @@
 text3
 m1
-<<<<<<< HEAD
 m3
-=======
 m2
-m3
->>>>>>> 83b241cd07bb68372e85023fae8bffcc6a98fb83

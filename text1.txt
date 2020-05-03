@@ -2,8 +2,4 @@ text1
 mod1
 mod2
 mod3
-<<<<<<< HEAD
 mod4
-=======
-mod4
->>>>>>> 83b241cd07bb68372e85023fae8bffcc6a98fb83
