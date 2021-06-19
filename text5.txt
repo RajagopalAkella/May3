@@ -6,3 +6,4 @@ text 5 for sample
 text 5 for sample again
 sample text
 text 1
+text 2
